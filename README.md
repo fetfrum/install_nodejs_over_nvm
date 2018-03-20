@@ -21,7 +21,7 @@ sudo apt-get install build-essential libssl-dev
 
 Ставишь необходимую версию Node.js при помощи nvm
 
-```nvm install 8.6.5```
+```nvm install 8.9.4```
 
 Список доступных версий Node.js можно посмотреть при помощи команды `nvm ls-remote`, список установленных версий можно c помощью команды `nvm ls`
 
