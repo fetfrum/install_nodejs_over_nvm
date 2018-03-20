@@ -2,8 +2,8 @@
 
 Ставишь компоненты для сборки бинарников:
 
-sudo apt-get update
-sudo apt-get install build-essential libssl-dev
+```sudo apt-get update
+sudo apt-get install build-essential libssl-dev```
 
 ## Для Fedora:
 
