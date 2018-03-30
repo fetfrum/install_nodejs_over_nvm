@@ -4,7 +4,7 @@
 
 ```
 sudo apt-get update
-sudo apt-get install build-essential libssl-dev
+sudo apt-get install build-essential libssl-dev curl
 ```
 
 ## Для Fedora:
