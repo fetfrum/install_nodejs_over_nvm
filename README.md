@@ -23,6 +23,7 @@ sudo yum install gcc-c++ make
 
 ```
 curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.30.2/install.sh | bash
+source ~/.bashrc
 ```
 
 Ставишь необходимую версию Node.js при помощи nvm
