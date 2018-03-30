@@ -26,10 +26,10 @@ curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.30.2/install.sh | b
 source ~/.bashrc
 ```
 
-Ставишь необходимую версию Node.js при помощи nvm
+Ставишь необходимую версию Node.js (LTS) при помощи nvm
 
 ```
-nvm install 8.9.4
+nvm install 8.11.1
 ```
 
 Список доступных версий Node.js можно посмотреть при помощи команды `nvm ls-remote`, список установленных версий можно c помощью команды `nvm ls`
@@ -37,7 +37,7 @@ nvm install 8.9.4
 для удобства вызова необходимой _установленной_ версии Node.js можно прописать алиас (псевдоним):
 
 ```
-nvm alias default 8.9.4
+nvm alias default 8.11.1
 ```
 
 И сделалать этот псевдоним вызываемым по умолчанию:
